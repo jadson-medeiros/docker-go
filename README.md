@@ -22,7 +22,7 @@ docker build -t medeirosjr/codeeducation .
 docker pull medeirosjr/codeeducation
 ```
 
-# Executar o container
+# Run
 ```
 docker run --rm medeirosjr/codeeducation
 ```
