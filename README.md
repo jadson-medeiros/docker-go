@@ -26,3 +26,5 @@ docker pull medeirosjr/codeeducation
 ```
 docker run --rm medeirosjr/codeeducation
 ```
+  
+This is the link where you can find the container on docker hub [Docker Hub](https://hub.docker.com/repository/docker/medeirosjr/codeeducation).
